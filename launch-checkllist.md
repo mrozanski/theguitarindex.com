@@ -80,27 +80,10 @@ On every important page (especially the hub and claim pages):
   - Periodically ask major assistants/engines questions like “What is The Guitar Index?” or “Where can I learn about guitar provenance?” and see if/when you start appearing.[10][9]
   - Adjust llms.txt and hub links over time to spotlight your best-performing pages.
 
-If you’d like, next step can be a small llms.txt draft for theguitarindex.com listing the hub plus your first 3–5 claim pages with one-line descriptions.
+## Footer / policy pages
 
-[1](https://www.m8l.com/blog/llm-search-optimization-how-to-make-your-website-visible-to-ai)
-[2](https://www.aleydasolis.com/en/ai-search/ai-search-optimization-checklist/)
-[3](https://www.perfectsearchmedia.com/blog/ultimate-technical-seo-checklist)
-[4](https://www.bluehost.com/blog/what-is-llms-txt/)
-[5](https://www.semrush.com/blog/llms-txt/)
-[6](https://www.level.agency/ai-seo-glossary/llms-txt-file/)
-[7](https://www.rankability.com/guides/llms-txt-best-practices/)
-[8](https://writesonic.com/blog/llm-txt-guide)
-[9](https://backlinko.com/ai-optimization)
-[10](https://www.averi.ai/learn/practical-roadmap-checklist-implement-llm-optimized-content)
-[11](https://www.plerdy.com/seo-checklist/)
-[12](file:///Users/marianorozanski/guitar-stack/Claim%20pages/html/landing.html)
-[13](https://www.gitbook.com/blog/what-is-llms-txt)
-[14](https://wolfpackadvising.com/blog/boost-ai-seo-2025-with-llms-txt-file/)
-[15](https://www.firebrand.marketing/?p=46437)
-[16](https://higoodie.com/blog/llms-txt-robots-txt-ai-optimization)
-[17](https://totheweb.com/blog/beyond-seo-your-geo-checklist-mastering-content-creation-for-ai-search-engines/)
-[18](https://www.youtube.com/watch?v=WMYP1Jhekcs)
-[19](https://gitbook.com/docs/guides/seo-and-llm-optimization/geo-guide-how-to-optimize-your-docs-for-ai-search-and-llm-ingestion)
-[20](https://www.mintlify.com/blog/the-value-of-llms-txt-hype-or-real)
-[21](https://www.searchenginejournal.com/partner-resources/visibility-over-rankings-your-strategic-guide-checklist-for-llm-aio-optimization/)
-[22](https://peec.ai/blog/llms-txt-md-files-important-ai-visibility-helper-or-hoax)
+- Create simple Privacy Policy and Terms pages before you add analytics or email collection.​
+- Add a footer that appears on all pages with:
+  - © 2025 The Guitar Index. All rights reserved.
+  - Links: Privacy Policy, Terms of Use, Contact.​
+  
